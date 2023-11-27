@@ -4,6 +4,7 @@
 .conteiner {
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
+  box-shadow: 0 0 30px lightgray;
   margin: auto;
   width: 310px;
 }
